@@ -15,6 +15,10 @@ MLLM-3-Micro (25P)
 
 MLLM-3-Max (471P)
 
+MLLM-3 Playground: https://mllm-3-chat.netlify.app/
+
+MLLM 1 to 2.5 Playground: https://mllm-chat-new.netlify.app/
+
 ### MLLM-3
 
 The base model. 108 Pages of data for simple yet fast answers. a great balanced model.
@@ -41,7 +45,5 @@ For customized- fine tuned chat Interfaces, Use MLLM-3 Micro or Flash, as they a
 For Autocomplete systems, Use MLLM-3-Max. This model doesn't perform the best at focused tasks, as the excessive amount of data make it more random- making it worse for focused chat and better for a more random yet accurate autocomplete.
 
 For a balanced mix of the two- Go with MLLM-3 Base. its a perfect middle standing for people who want the best of both.
-
-A playground is coming soon!
 
 This model is less "focused" but more random than MLLM-2 and 2.5, while maintaining quality. Because of this, it works great as an N-gram based autocomplete system.
