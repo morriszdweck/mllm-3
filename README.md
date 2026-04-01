@@ -38,7 +38,7 @@ Larger doesn't always mean better.
 
 For customized- fine tuned chat Interfaces, Use MLLM-3 Micro or Flash, as they are more focused. They also have an extremely small memory footprint
 
-For Autocomplete systems, Use MLM-3-Max. This model doesn't perform the best at focused tasks, as the excessive amount of data make it more random- making it worse for simple chat and better for autocomplete.
+For Autocomplete systems, Use MLLM-3-Max. This model doesn't perform the best at focused tasks, as the excessive amount of data make it more random- making it worse for focused chat and better for a more random yet accurate autocomplete.
 
 For a balanced mix of the two- Go with MLLM-3 Base. its a perfect middle standing for people who want the best of both.
 
