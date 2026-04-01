@@ -1,7 +1,7 @@
 # mllm-3
 
-Introducing the next generation of MLLM models by the mincoffical Team.
-With a new expanded corpus for more general things.
+Introducing the next generation of MLLM models by Mincoffical AI.
+With a new expanded corpus for more general things, like phrases, instead of just raw data- making it more unique
 
 P= Pages of data
 
