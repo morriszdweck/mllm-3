@@ -32,4 +32,16 @@ Smallest model- 25 pages of data. Compressing the model was hard, but I tried to
 This has a lot of data. It took a really long time to make. Unlike my planned 700 Pages of data, it ended up being the smaller, 471 Pages of data. I might create an updated MLLM-3.5 Max model sometime with a larger Pages of data count.
 
 
+# Which size is best for you?
+
+Larger doesn't always mean better.
+
+For customized- fine tuned chat Interfaces, Use MLLM-3 Micro or Flash, as they are more focused. They also have an extremely small memory footprint
+
+For Autocomplete systems, Use MLM-3-Max. This model doesn't perform the best at focused tasks, as the excessive amount of data make it more random- making it worse for simple chat and better for autocomplete.
+
+For a balanced mix of the two- Go with MLLM-3 Base. its a perfect middle standing for people who want the best of both.
+
+A playground is coming soon!
+
 This model is less "focused" but more random than MLLM-2 and 2.5, while maintaining quality. Because of this, it works great as an N-gram based autocomplete system.
