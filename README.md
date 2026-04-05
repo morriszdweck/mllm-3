@@ -15,6 +15,8 @@ MLLM-3-Micro (25P)
 
 MLLM-3-Max (471P)
 
+MLLM-3 MOBILE playground: https://mllm-3-mobile-chat.netlify.app
+
 MLLM-3 Playground: https://mllm-3-chat.netlify.app/
 
 MLLM 1 to 2.5 Playground: https://mllm-chat-new.netlify.app/
